@@ -1,0 +1,27 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    color: blue;
+    font-size: 25px;
+    }
+
+
+.link {
+    text-decoration: none;
+    margin-right: 10px;
+    justify-content: space-between;
+  }
+  
+  .link:hover {
+    text-decoration: underline;
+  }
+  
+
+  .titulo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+

@@ -1,0 +1,27 @@
+Pasos para inicializar React:
+
+Primero que todo nos posicionamos dentroo de la carpeta donde
+queremos crear el proyecto
+
+1-Usamos el comando: npm create vite@latest
+2-Escribimos un nombre de proyecto
+3-Seleccionamos la herramienta React
+4-Elegimos la variante JS
+Ya tendríamos el proyecto creado
+
+
+
+
+PARA APLICAR ESTILOS CON CSS:
+
+1-Se puede hacer en linea entre dos llaves {{}}
+2- Se crea un archivo css y se lo importa.
+3- Se crea un archivo css con el nombre y se le agrega .module.css, luego se 
+lo importa de la forma "import classes from './Navbar.module.css'
+
+
+PARA INSTALAR BOOSTRAP:
+
+1 npm install boostrap
+2 Una vez instalado en la carpeta del proyecto, en el main.jsx pegamos
+un link que nos adhiere boostrap a todo el proyecto
